@@ -11,7 +11,7 @@ composer install
 cp .env.example .env
 ```
 
-Setting your database connection
+Open .env file and setup your database connection
 
 ```
 DB_CONNECTION=mysql
@@ -33,8 +33,8 @@ If you using mysql, add this code to ./config/databases.php
 ```
 
 ```
-php artisan migrate
 php artisan key:generate
+php artisan migrate
 php artisan serve
 ```
 
