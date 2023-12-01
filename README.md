@@ -2,8 +2,8 @@
 
 Laravel 10 with create, read, update, delete (CRUD) using tailwindcss
 
-![Screenshot](https://raw.githubusercontent.com/akhmads/laravel10-crud/main/screenshot/1.png)
-![Screenshot](https://raw.githubusercontent.com/akhmads/laravel10-crud/main/screenshot/2.png)
+![Screenshot](https://raw.githubusercontent.com/akhmads/laravel10-crud/main/screenshot/s1.png)
+![Screenshot](https://raw.githubusercontent.com/akhmads/laravel10-crud/main/screenshot/s2.png)
 
 ## Installation
 
