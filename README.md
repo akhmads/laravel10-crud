@@ -2,9 +2,6 @@
 
 Laravel 10 with create, read, update, delete (CRUD) using tailwindcss
 
-![Screenshot](https://raw.githubusercontent.com/akhmads/laravel10-crud/main/screenshot/s1.png)
-![Screenshot](https://raw.githubusercontent.com/akhmads/laravel10-crud/main/screenshot/s2.png)
-
 ## Installation
 
 ```
@@ -42,6 +39,9 @@ php artisan serve
 ```
 
 Open http://127.0.0.1:8000/products on your browser.
+
+![Screenshot](https://raw.githubusercontent.com/akhmads/laravel10-crud/main/screenshot/s1.png)
+![Screenshot](https://raw.githubusercontent.com/akhmads/laravel10-crud/main/screenshot/s2.png)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
